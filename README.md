@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 ## ⚙ Commands Running locally Client
 - npm start
 
-## ⚙ Documentatios
+## ⚙ Documentation
 - <a href=".github/Documentation.pdf">PDF</a>
 
 Made with 💜 by Rafael Maciel
