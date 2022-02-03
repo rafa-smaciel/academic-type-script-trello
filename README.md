@@ -31,6 +31,7 @@ This project was developed with the following technologies:
 <br>
 
 ## ⚙ Commands Running locally Client
+- npm i
 - npm start
 
 ## ⚙ Documentation
